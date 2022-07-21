@@ -1,3 +1,5 @@
+# Instructions
+
 Use the requirements file in the Environments folder to create python virutal environments of the following names
 - ip_cam
 - lxmert
@@ -26,3 +28,19 @@ Links to all presentations and content
 [ANVI - Pitch Deck(healthathon)](https://docs.google.com/presentation/d/14cbR7mBZmQzBsD_mv4r5RZ8TebKw92XbeywzUVOAGAQ/edit?usp=sharing)
 
 [Collection of links](https://nitturl.sharepoint.com/:w:/s/RMI24-Sangam-ANVI/ESm3lTr7SlJApTZ6_v6Q_E8BETNyh-8FlqMV1fYX6ZSiNA?e=t8pe8h)
+
+## SIH 
+It is observed that smart white can is limited for visually impaired persons and difficulties in tracking the harmful objects in their surroundings. The solution is to bind with the feature like developing voice instructions of nearest harmful objects and it should be connected with Bluetooth to the users. Summary: To resolve the difficulties in walking with white cane in surrounding environments with early warnings of surroundings. 
+
+Objective: 
+
+1. It is easily to access the surrounding with fullest. 
+
+2. It allows the user to scan their surrounding for obstacles or orientation marks. 
+
+3. It will also give voice instruction to wearer for easy identification of harmful objects. 
+
+4. The developed feature must be protected by latest security application. 
+
+5. GPs tracker must be developed.
+
