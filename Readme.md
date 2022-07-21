@@ -24,3 +24,5 @@ Links to all presentations and content
 [ANVI](https://docs.google.com/presentation/d/1HGgvTUn4sQGzglMLN2cXB-jaTX7ZV9N5RlvoeMPPJ7A/edit?usp=sharing)
 
 [ANVI - Pitch Deck(healthathon)](https://docs.google.com/presentation/d/14cbR7mBZmQzBsD_mv4r5RZ8TebKw92XbeywzUVOAGAQ/edit?usp=sharing)
+
+[Collection of links](https://nitturl.sharepoint.com/:w:/s/RMI24-Sangam-ANVI/ESm3lTr7SlJApTZ6_v6Q_E8BETNyh-8FlqMV1fYX6ZSiNA?e=t8pe8h)
