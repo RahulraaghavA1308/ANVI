@@ -4,7 +4,7 @@ Use the requirements file in the Environments folder to create python virutal en
 - clip
 - silero
 
-** CLIP model weights **
+**CLIP model weights**
 
 Download from here
 https://drive.google.com/uc?id=1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX
